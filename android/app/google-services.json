@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183637540039",
+    "project_id": "chat-app-b894e",
+    "storage_bucket": "chat-app-b894e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183637540039:android:3b40fde0e81e62c09c52e2",
+        "android_client_info": {
+          "package_name": "com.chauhan.gosip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183637540039-odqgsgu3ranmflq06gtsndf3li2bd3tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFrOpNj6PrEyaH4Q2Gy38DYUWHx9UhJpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183637540039-odqgsgu3ranmflq06gtsndf3li2bd3tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
